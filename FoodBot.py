@@ -15,8 +15,8 @@ from menu import menu   # Menyuni import qilish
 # from sendsms import send_sms, get_eskiz  # Bu funksiyani oxirida yoqaman
 
 
-TOKEN = "7793799628:AAH7OefE0pBzFv_PfPfseo3RDbMOqafKhOo"
-channel_username = "@zayavka_uz"
+TOKEN = "Bot token here"
+channel_username = "send message tg chanel, @example"
 
 logging.basicConfig(level=logging.INFO)
 
